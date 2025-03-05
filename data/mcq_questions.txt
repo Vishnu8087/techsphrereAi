@@ -1,0 +1,164 @@
+## Multiple Choice Questions:
+
+**1. What are the two main types of probabilistic models discussed in the video?**
+
+a) Discriminative and Generative
+b) Supervised and Unsupervised
+c) Linear and Non-Linear
+d) Bayesian and Frequentist
+
+**2. Which probabilistic model was discussed as an example of a generative model?**
+
+a) Logistic Regression
+b) Naive Bayes
+c) Support Vector Machine
+d) Decision Tree
+
+**3. What is the name of the discriminative model discussed in the video?**
+
+a) Naive Bayes
+b) K-Nearest Neighbors
+c) Logistic Regression
+d) Random Forest
+
+**4. What is the primary task in a binary classification problem?**
+
+a) Predict the probability of a specific event.
+b) Identify the relationship between two variables.
+c) Determine whether an instance belongs to a positive or negative class.
+d) Cluster data points into distinct groups.
+
+**5. What are the class labels typically used in a binary classification problem?**
+
+a) True and False
+b) 0 and 1
+c) +1 and -1
+d) All of the above
+
+**6. What does the sigmoid function do in the context of logistic regression?**
+
+a) Maps predicted values to probabilities.
+b) Calculates the distance between data points.
+c) Determines the optimal decision boundary.
+d) Creates a tree-like structure to classify data.
+
+**7. What is the domain of the sigmoid function?**
+
+a) 0 to 1
+b) -1 to +1
+c) -infinity to +infinity
+d) 0 to infinity
+
+**8. What is the range of the sigmoid function?**
+
+a) 0 to 1
+b) -1 to +1
+c) -infinity to +infinity
+d) 0 to infinity
+
+**9. What is the value of the sigmoid function when x equals 0?**
+
+a) 0
+b) 1
+c) 0.5
+d) Infinity
+
+**10. What is the shape of the sigmoid function's graph?**
+
+a) A straight line
+b) A parabola
+c) An S-curve
+d) A bell curve
+
+**11.  Instead of predicting labels, what does logistic regression predict?**
+
+a) The probability of an instance belonging to a positive class.
+b) The distance between data points.
+c) The optimal decision boundary.
+d) The number of features in an instance.
+
+**12. What is the equation for the decision boundary in binary classification?**
+
+a) a + b1x1 + b2x2 + ... + bnxn = 0
+b) w . x = t
+c) P(y = +1 | x) = 0.5
+d) All of the above
+
+**13. In the equation for the decision boundary, what does "w" represent?**
+
+a) The slope
+b) The intercept
+c) The weights
+d) The features
+
+**14. What is the sign function used for in logistic regression?**
+
+a) To determine the probability of a positive class.
+b) To identify the class label based on the decision boundary.
+c) To calculate the sigmoid value.
+d) To plot the decision boundary on a graph.
+
+**15. What does the value of w.x - t represent?**
+
+a) The probability of a positive class.
+b) The probability of a negative class.
+c) The distance of a data point from the decision boundary.
+d) The number of features in a data point.
+
+**16. What distribution is used to define the training examples in logistic regression?**
+
+a) Normal Distribution
+b) Exponential Distribution
+c) Bernoulli Distribution
+d) Poisson Distribution
+
+**17. What is the primary goal in training a logistic regression model?**
+
+a) Finding the optimal decision boundary.
+b) Identifying the class label of a given instance.
+c) Maximizing the conditional likelihood function.
+d) All of the above
+
+**18. How do you find the optimal values for w and t in logistic regression?**
+
+a) By using a decision tree algorithm.
+b) By calculating the average of the data points.
+c) By equating the partial derivatives of the conditional likelihood function with respect to w and t to zero and solving.
+d) By manually adjusting the values until the model performs well.
+
+**19. What does "CL(w, t)" represent?**
+
+a) Conditional Likelihood function
+b) Classification Label
+c) Sigmoid Function
+d) Bernoulli Distribution
+
+**20. What is the Log Conditional Likelihood function used for in logistic regression?**
+
+a) To calculate the probability of a positive class.
+b) To identify the class label of a given instance.
+c) To simplify the process of maximizing the Conditional Likelihood function.
+d) To visualize the decision boundary on a graph.
+
+## ANSWERS = [ 
+'Discriminative and Generative', 
+'Naive Bayes', 
+'Logistic Regression', 
+'Determine whether an instance belongs to a positive or negative class.', 
+'All of the above', 
+'Maps predicted values to probabilities.', 
+'-infinity to +infinity', 
+'0 to 1', 
+'0.5', 
+'An S-curve', 
+'The probability of an instance belonging to a positive class.', 
+'w . x = t', 
+'The weights', 
+'To identify the class label based on the decision boundary.', 
+'The distance of a data point from the decision boundary.', 
+'Bernoulli Distribution', 
+'Maximizing the conditional likelihood function.', 
+'By equating the partial derivatives of the conditional likelihood function with respect to w and t to zero and solving.', 
+'Conditional Likelihood function', 
+'To simplify the process of maximizing the Conditional Likelihood function.' 
+] 

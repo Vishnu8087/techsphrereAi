@@ -1,0 +1,3 @@
+Qna1) What is the main topic of the video? (Marks: 1)
+Qna2) Explain the difference between trimming and splitting in video editing. Ana2) Trimming and splitting are two distinct processes in video editing, though they might seem similar at first.  * **Trimming:** This involves removing unwanted sections from the beginning or end of a video clip. It's like cutting off the excess parts of a piece of cloth to get the desired length.  * **Splitting:** This involves dividing a video clip into multiple segments. Imagine cutting a rope into smaller pieces. Each piece remains independent, and you can manipulate them individually.   Marks: 3
+Qna3) What are some of the challenges the young men face while learning video editing? (Marks: 5)

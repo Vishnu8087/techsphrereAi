@@ -1,0 +1,123 @@
+Machine Learning Quiz (Easy)
+
+1. Which two main categories of machine learning are commonly used?
+a) Discriminative and Generative
+b) Supervised and Unsupervised
+c) Reinforcement and Unsupervised
+d) Deep and Shallow
+
+2. What is the name of a simple probabilistic classifier that makes assumptions about the independence of features?
+a) Decision Tree
+b) Support Vector Machine
+c) Naive Bayes
+d) Neural Network
+
+3. Which machine learning algorithm is often used for binary classification problems, predicting a probability of belonging to a specific class?
+a) Linear Regression
+b) K-Means Clustering
+c) Logistic Regression
+d) K-Nearest Neighbors
+
+4. Which of these is NOT a common machine learning task?
+a) Regression
+b) Classification
+c) Clustering
+d) Compiling
+
+5. What is the main goal of supervised learning?
+a) To discover hidden patterns in unlabeled data
+b) To learn a mapping from input features to output labels
+c) To group similar data points together
+d) To create new data based on existing data
+
+6. Which technique is used to reduce the dimensionality of data by finding the most important features?
+a) Feature Extraction
+b) Feature Selection
+c) Data Augmentation
+d) Cross-Validation
+
+7. Which machine learning algorithm is best suited for finding groups of similar data points in unlabeled data?
+a) K-Means Clustering
+b) Linear Regression
+c) Logistic Regression
+d) Decision Tree
+
+8. What is a common metric used to evaluate the performance of a classification model?
+a) Mean Squared Error
+b) Accuracy
+c) R-squared
+d) F1-score
+
+9. Which of these is NOT a common type of neural network architecture?
+a) Convolutional Neural Network (CNN)
+b) Recurrent Neural Network (RNN)
+c) Linear Neural Network (LNN)
+d) Multilayer Perceptron (MLP)
+
+10. What is the process of training a machine learning model?
+a) Feeding the model with data and adjusting its parameters to minimize errors
+b) Manually setting the parameters of the model
+c) Selecting the best algorithm for the task
+d) Evaluating the model's performance on unseen data
+
+11. What is a hyperparameter in machine learning?
+a) A parameter that is learned by the model during training
+b) A parameter that is set before training
+c) A feature that is used as input to the model
+d) A metric used to evaluate the model's performance
+
+12. What is the main purpose of a loss function in machine learning?
+a) To measure the performance of a model
+b) To adjust the parameters of a model during training
+c) To select the best algorithm for a task
+d) To generate new data based on existing data
+
+13. What is the difference between a model and an algorithm?
+a) A model is a specific implementation of an algorithm
+b) An algorithm is a specific implementation of a model
+c) A model is a set of parameters, while an algorithm is a set of steps
+d) An algorithm is a set of parameters, while a model is a set of steps
+
+14. Which of these is NOT a common type of data preprocessing?
+a) Normalization
+b) Standardization
+c) Feature engineering
+d) Compilation
+
+15. What is the purpose of data splitting in machine learning?
+a) To evaluate the model's performance on unseen data
+b) To prevent overfitting
+c) To adjust the parameters of a model during training
+d) To select the best algorithm for a task
+
+16. What is overfitting in machine learning?
+a) When a model performs well on training data but poorly on unseen data
+b) When a model performs well on unseen data but poorly on training data
+c) When a model performs poorly on both training and unseen data
+d) When a model is too complex and cannot be trained
+
+17. Which of these is NOT a common method for preventing overfitting?
+a) Regularization
+b) Early stopping
+c) Data augmentation
+d) Data compilation
+
+18. What is the purpose of cross-validation in machine learning?
+a) To find the best hyperparameters for a model
+b) To prevent overfitting
+c) To evaluate the model's performance on unseen data
+d) To generate new data based on existing data
+
+19. What is a common application of machine learning?
+a) Image recognition
+b) Natural language processing
+c) Fraud detection
+d) All of the above
+
+20. What is the main advantage of using machine learning?
+a) It can automate tasks that are difficult or impossible for humans
+b) It can analyze large amounts of data to find hidden patterns
+c) It can improve the accuracy of predictions over time
+d) All of the above
+
+ANSWERS = ['Discriminative and Generative', 'Naive Bayes', 'Logistic Regression', 'Compiling', 'To learn a mapping from input features to output labels', 'Feature Selection', 'K-Means Clustering', 'Accuracy', 'Linear Neural Network (LNN)', 'Feeding the model with data and adjusting its parameters to minimize errors', 'A parameter that is set before training', 'To measure the performance of a model', 'A model is a specific implementation of an algorithm', 'Compilation', 'To evaluate the model’s performance on unseen data', 'When a model performs well on training data but poorly on unseen data', 'Data compilation', 'To find the best hyperparameters for a model', 'All of the above', 'All of the above'] 

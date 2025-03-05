@@ -1,0 +1,23 @@
+Educational_Video_Tool/
+├── app.py                   # Main Streamlit application file
+├── modules/                 # Directory for backend logic (your modules)
+│   ├── record.py            # Module 1: Video recording with FFmpeg
+│   ├── process_video.py     # Module 2 & 3: Video upload and summarization
+│   ├── generate_mcq.py      # Module 4: MCQ generation
+│   ├── generate_descriptive.py # Module 5 & 6: Descriptive Q&A generation and separation
+│   ├── validate_answers.py  # Module 7: Answer evaluation with FAISS
+│   ├── google_auth.py       # Module 8: Google API authentication setup
+│   ├── google_form.py       # Module 9: Google Form creation for MCQs
+│   └── google_classroom.py  # Module 10: Google Classroom integration
+├── data/                    # Directory for input/output files
+│   ├── output.mkv           # Recorded video file (generated)
+│   ├── mcq_questions.txt    # Generated MCQs (generated)
+│   ├── questions.txt        # Descriptive questions (generated)
+│   ├── answers.txt          # Descriptive answers (generated)
+│   ├── student_scores.csv   # Evaluation scores (generated)
+│   └── uploaded_videos/     # Subdirectory for uploaded video files
+├── credentials/             # Directory for sensitive files
+│   ├── client_user4.json    # Google API client secrets
+│   └── token1.json          # OAuth token file (generated)
+├── requirements.txt         # List of Python dependencies
+└── README.md                # Project documentation
